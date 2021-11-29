@@ -64,7 +64,7 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = f"""
-*Hellow There, I'm Anki Vector 🍑
+*Hellow There, I'm Lusi X 🌹
 
 I'm a Powerfull group manager bot With Cool Modules. Made My @TeamAnkiVector
 hit /help to Find my list of available commands 🕹*
@@ -76,18 +76,18 @@ buttons = [
         InlineKeyboardButton(text="🖲 Support Group", url="https://t.me/AnkiSupport_Official"),
     ],
     [
-        InlineKeyboardButton(text="📜 Source Code", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"),
+        InlineKeyboardButton(text="Subscribe", url="https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA"),
         InlineKeyboardButton(text="❔ Help", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Anki Vector To Youre Group ➕", url="t.me/TheAnkiVectorbot?startgroup=true"
+            text="➕ Add Lusi X To Youre Group ➕", url="t.me/TheLusibot?startgroup=true"
         ),
     ],
 ]
 
 
-ANKIVECTOR_STICKER = "CAACAgUAAxkBAAEEwKthkPVBp6d5T4S3dlYZM3L8BkXRNAACOAQAAryviVQbCLI09PvjAAEiBA"
+ANKIVECTOR_STICKER = "CAACAgUAAx0CXkG6AAMEG2Gkn7DeeKiu-7FYLjUeDtxcAnVVAAJtBAAC-kcpVQHHmodVsfa3IgQ"
 
 HELP_STRINGS = f"""
 *Main Commands :* 🤖
